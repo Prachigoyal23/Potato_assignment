@@ -28,5 +28,5 @@ This project is a Flask application that allows you to query tweets about Britne
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Prachigoyal23/Potato_assignment.git
+   cd Potato_assignment
